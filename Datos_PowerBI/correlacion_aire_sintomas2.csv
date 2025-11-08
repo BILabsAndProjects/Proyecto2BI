@@ -1,0 +1,913 @@
+Contaminante;Sintoma;Correlacion;Localidad;Año
+CO;Casos de sibilancia último año;-4,689482350058068e-16;BARRIOS UNIDOS;2020
+NO2;Casos de sibilancia último año;-1,6119307671518883e-15;BARRIOS UNIDOS;2020
+O3;Casos de sibilancia último año;2,637816301944974e-16;BARRIOS UNIDOS;2020
+PM10;Casos de sibilancia último año;-1,641344561966528e-15;BARRIOS UNIDOS;2020
+PM25;Casos de sibilancia último año;-1,6361893274560186e-15;BARRIOS UNIDOS;2020
+SO2;Casos de sibilancia último año;-7,766724690846276e-16;BARRIOS UNIDOS;2020
+CO;Casos de tos último año diferente gripa;-3,3776975858291636e-16;BARRIOS UNIDOS;2020
+NO2;Casos de tos último año diferente gripa;-3,6938303336056185e-16;BARRIOS UNIDOS;2020
+O3;Casos de tos último año diferente gripa;1,2871809343234338e-17;BARRIOS UNIDOS;2020
+PM10;Casos de tos último año diferente gripa;-5,4986301144781296e-17;BARRIOS UNIDOS;2020
+PM25;Casos de tos último año diferente gripa;-1,956367712519501e-16;BARRIOS UNIDOS;2020
+SO2;Casos de tos último año diferente gripa;2,2538964120225805e-16;BARRIOS UNIDOS;2020
+CO;Casos de mocos o nariz tapada último año;-2,7675189166917166e-16;BARRIOS UNIDOS;2020
+NO2;Casos de mocos o nariz tapada último año;-1,4959541368783822e-15;BARRIOS UNIDOS;2020
+O3;Casos de mocos o nariz tapada último año;8,132178992926183e-16;BARRIOS UNIDOS;2020
+PM10;Casos de mocos o nariz tapada último año;-8,277714194980517e-16;BARRIOS UNIDOS;2020
+PM25;Casos de mocos o nariz tapada último año;-9,901248059293984e-16;BARRIOS UNIDOS;2020
+SO2;Casos de mocos o nariz tapada último año;-1,53289352053827e-16;BARRIOS UNIDOS;2020
+CO;Prevalencia_total;-3,7174371846524786e-16;BARRIOS UNIDOS;2020
+NO2;Prevalencia_total;6,213128604821125e-16;BARRIOS UNIDOS;2020
+O3;Prevalencia_total;-3,5820726248890843e-16;BARRIOS UNIDOS;2020
+PM10;Prevalencia_total;2,308436222182051e-16;BARRIOS UNIDOS;2020
+PM25;Prevalencia_total;1,6413315372647946e-16;BARRIOS UNIDOS;2020
+SO2;Prevalencia_total;2,352979418906024e-16;BARRIOS UNIDOS;2020
+CO;Casos de sibilancia último año;-2,5887378848877183e-16;BARRIOS UNIDOS;2021
+NO2;Casos de sibilancia último año;-3,5131231812729624e-16;BARRIOS UNIDOS;2021
+O3;Casos de sibilancia último año;-1,50340618324191e-16;BARRIOS UNIDOS;2021
+PM10;Casos de sibilancia último año;-2,6770777607919847e-16;BARRIOS UNIDOS;2021
+PM25;Casos de sibilancia último año;-3,344345206343387e-16;BARRIOS UNIDOS;2021
+SO2;Casos de sibilancia último año;-4,944853449875881e-16;BARRIOS UNIDOS;2021
+CO;Casos de tos último año diferente gripa;-6,469127083510719e-17;BARRIOS UNIDOS;2021
+NO2;Casos de tos último año diferente gripa;-2,3211868327413613e-16;BARRIOS UNIDOS;2021
+O3;Casos de tos último año diferente gripa;-1,34876272018542e-16;BARRIOS UNIDOS;2021
+PM10;Casos de tos último año diferente gripa;-5,392563803938183e-16;BARRIOS UNIDOS;2021
+PM25;Casos de tos último año diferente gripa;-4,709634366617757e-16;BARRIOS UNIDOS;2021
+SO2;Casos de tos último año diferente gripa;-6,287912763704531e-17;BARRIOS UNIDOS;2021
+CO;Casos de mocos o nariz tapada último año;-5,233432698068764e-16;BARRIOS UNIDOS;2021
+NO2;Casos de mocos o nariz tapada último año;-5,855439455527454e-16;BARRIOS UNIDOS;2021
+O3;Casos de mocos o nariz tapada último año;-1,149865626030901e-17;BARRIOS UNIDOS;2021
+PM10;Casos de mocos o nariz tapada último año;-1,9209831622740302e-16;BARRIOS UNIDOS;2021
+PM25;Casos de mocos o nariz tapada último año;-3,579721414090041e-16;BARRIOS UNIDOS;2021
+SO2;Casos de mocos o nariz tapada último año;-5,814517265299915e-16;BARRIOS UNIDOS;2021
+CO;Prevalencia_total;-5,58169756448626e-17;BARRIOS UNIDOS;2021
+NO2;Prevalencia_total;-9,869497280681648e-17;BARRIOS UNIDOS;2021
+O3;Prevalencia_total;-3,981702597589964e-17;BARRIOS UNIDOS;2021
+PM10;Prevalencia_total;-2,2091243203437818e-16;BARRIOS UNIDOS;2021
+PM25;Prevalencia_total;-2,422581380431031e-16;BARRIOS UNIDOS;2021
+SO2;Prevalencia_total;-2,947987791436085e-16;BARRIOS UNIDOS;2021
+CO;Casos de sibilancia último año;-1,33003866786573e-16;BARRIOS UNIDOS;2022
+NO2;Casos de sibilancia último año;8,890705944467868e-16;BARRIOS UNIDOS;2022
+O3;Casos de sibilancia último año;2,8402778028687825e-16;BARRIOS UNIDOS;2022
+PM10;Casos de sibilancia último año;-2,2300349145857634e-16;BARRIOS UNIDOS;2022
+PM25;Casos de sibilancia último año;7,601731625600627e-17;BARRIOS UNIDOS;2022
+SO2;Casos de sibilancia último año;7,730533657123056e-16;BARRIOS UNIDOS;2022
+CO;Casos de tos último año diferente gripa;2,7838466863358864e-17;BARRIOS UNIDOS;2022
+NO2;Casos de tos último año diferente gripa;-2,4982758924283333e-17;BARRIOS UNIDOS;2022
+O3;Casos de tos último año diferente gripa;4,785253381933713e-16;BARRIOS UNIDOS;2022
+PM10;Casos de tos último año diferente gripa;4,950382164871946e-16;BARRIOS UNIDOS;2022
+PM25;Casos de tos último año diferente gripa;4,85868739775226e-16;BARRIOS UNIDOS;2022
+SO2;Casos de tos último año diferente gripa;8,935797793004553e-17;BARRIOS UNIDOS;2022
+CO;Casos de mocos o nariz tapada último año;-2,419848877470334e-17;BARRIOS UNIDOS;2022
+NO2;Casos de mocos o nariz tapada último año;6,109895942058539e-16;BARRIOS UNIDOS;2022
+O3;Casos de mocos o nariz tapada último año;5,645826945077111e-16;BARRIOS UNIDOS;2022
+PM10;Casos de mocos o nariz tapada último año;6,0345161665775e-16;BARRIOS UNIDOS;2022
+PM25;Casos de mocos o nariz tapada último año;7,174988795993318e-16;BARRIOS UNIDOS;2022
+SO2;Casos de mocos o nariz tapada último año;8,591108865238887e-17;BARRIOS UNIDOS;2022
+CO;Prevalencia_total;2,2050933897226768e-16;BARRIOS UNIDOS;2022
+NO2;Prevalencia_total;1,4707750967924503e-16;BARRIOS UNIDOS;2022
+O3;Prevalencia_total;1,8636513588149824e-16;BARRIOS UNIDOS;2022
+PM10;Prevalencia_total;1,608686309539089e-16;BARRIOS UNIDOS;2022
+PM25;Prevalencia_total;1,5004232867753195e-16;BARRIOS UNIDOS;2022
+SO2;Prevalencia_total;1,9471345137548118e-16;BARRIOS UNIDOS;2022
+CO;Casos de sibilancia último año;-6,122820120918802e-17;BARRIOS UNIDOS;2023
+NO2;Casos de sibilancia último año;-2,656572694771908e-16;BARRIOS UNIDOS;2023
+O3;Casos de sibilancia último año;2,1487531719127288e-16;BARRIOS UNIDOS;2023
+PM10;Casos de sibilancia último año;-3,5428088402611014e-16;BARRIOS UNIDOS;2023
+PM25;Casos de sibilancia último año;-6,500701235611687e-16;BARRIOS UNIDOS;2023
+SO2;Casos de sibilancia último año;2,464740082853266e-16;BARRIOS UNIDOS;2023
+CO;Casos de tos último año diferente gripa;-1,3644487398203482e-16;BARRIOS UNIDOS;2023
+NO2;Casos de tos último año diferente gripa;-3,2938283053612616e-16;BARRIOS UNIDOS;2023
+O3;Casos de tos último año diferente gripa;1,4278860108466694e-16;BARRIOS UNIDOS;2023
+PM10;Casos de tos último año diferente gripa;-4,2957277313788066e-16;BARRIOS UNIDOS;2023
+PM25;Casos de tos último año diferente gripa;-3,277451937439893e-16;BARRIOS UNIDOS;2023
+SO2;Casos de tos último año diferente gripa;-4,0643036779140903e-16;BARRIOS UNIDOS;2023
+CO;Casos de mocos o nariz tapada último año;-6,900668002736511e-17;BARRIOS UNIDOS;2023
+NO2;Casos de mocos o nariz tapada último año;-1,8108583723960292e-16;BARRIOS UNIDOS;2023
+O3;Casos de mocos o nariz tapada último año;6,111042574029703e-16;BARRIOS UNIDOS;2023
+PM10;Casos de mocos o nariz tapada último año;-3,2752392228504302e-16;BARRIOS UNIDOS;2023
+PM25;Casos de mocos o nariz tapada último año;-6,631703211382672e-16;BARRIOS UNIDOS;2023
+SO2;Casos de mocos o nariz tapada último año;6,807311183098105e-16;BARRIOS UNIDOS;2023
+CO;Prevalencia_total;5,615552238432936e-16;BARRIOS UNIDOS;2023
+NO2;Prevalencia_total;1,055736465127062e-15;BARRIOS UNIDOS;2023
+O3;Prevalencia_total;5,949610463679051e-16;BARRIOS UNIDOS;2023
+PM10;Prevalencia_total;1,2752757316033319e-15;BARRIOS UNIDOS;2023
+PM25;Prevalencia_total;1,0913973673285265e-15;BARRIOS UNIDOS;2023
+SO2;Prevalencia_total;8,364242305895176e-16;BARRIOS UNIDOS;2023
+CO;Casos de sibilancia último año;1,398504957385177e-16;BOSA;2020
+NO2;Casos de sibilancia último año;3,7658406074661066e-16;BOSA;2020
+O3;Casos de sibilancia último año;-1,0772594947696142e-16;BOSA;2020
+PM10;Casos de sibilancia último año;-5,557417434150966e-17;BOSA;2020
+PM25;Casos de sibilancia último año;1,6454600981074432e-16;BOSA;2020
+SO2;Casos de sibilancia último año;1,22432513614678e-16;BOSA;2020
+CO;Casos de tos último año diferente gripa;4,8976900953162667e-17;BOSA;2020
+NO2;Casos de tos último año diferente gripa;1,4931947132413976e-16;BOSA;2020
+O3;Casos de tos último año diferente gripa;-1,3625837563980984e-17;BOSA;2020
+PM10;Casos de tos último año diferente gripa;2,2117682684178718e-17;BOSA;2020
+PM25;Casos de tos último año diferente gripa;7,13629668294037e-17;BOSA;2020
+SO2;Casos de tos último año diferente gripa;-3,162666954313396e-17;BOSA;2020
+CO;Casos de mocos o nariz tapada último año;1,9450362953732072e-16;BOSA;2020
+NO2;Casos de mocos o nariz tapada último año;4,912561836554628e-16;BOSA;2020
+O3;Casos de mocos o nariz tapada último año;-1,1012611891659002e-16;BOSA;2020
+PM10;Casos de mocos o nariz tapada último año;1,615726022742876e-17;BOSA;2020
+PM25;Casos de mocos o nariz tapada último año;2,6347257041911736e-16;BOSA;2020
+SO2;Casos de mocos o nariz tapada último año;-6,790261671668323e-18;BOSA;2020
+CO;Prevalencia_total;-5,854354168340552e-16;BOSA;2020
+NO2;Prevalencia_total;-1,8553678015222736e-15;BOSA;2020
+O3;Prevalencia_total;-3,111372568789207e-16;BOSA;2020
+PM10;Prevalencia_total;-5,3377906150720326e-17;BOSA;2020
+PM25;Prevalencia_total;-5,594154176263386e-16;BOSA;2020
+SO2;Prevalencia_total;1,0689250145239868e-15;BOSA;2020
+CO;Casos de sibilancia último año;4,960923262334203e-17;BOSA;2021
+NO2;Casos de sibilancia último año;3,8755713280058283e-16;BOSA;2021
+O3;Casos de sibilancia último año;1,7591064625439027e-16;BOSA;2021
+PM10;Casos de sibilancia último año;2,4527670553067306e-16;BOSA;2021
+PM25;Casos de sibilancia último año;-6,939479859686814e-17;BOSA;2021
+SO2;Casos de sibilancia último año;;BOSA;2021
+CO;Casos de tos último año diferente gripa;3,280425207304974e-17;BOSA;2021
+NO2;Casos de tos último año diferente gripa;1,5313879939967954e-17;BOSA;2021
+O3;Casos de tos último año diferente gripa;8,545768032543127e-17;BOSA;2021
+PM10;Casos de tos último año diferente gripa;1,9663858332356283e-17;BOSA;2021
+PM25;Casos de tos último año diferente gripa;2,0750907305336604e-17;BOSA;2021
+SO2;Casos de tos último año diferente gripa;;BOSA;2021
+CO;Casos de mocos o nariz tapada último año;1,6023872419149145e-17;BOSA;2021
+NO2;Casos de mocos o nariz tapada último año;-4,1621961210691826e-16;BOSA;2021
+O3;Casos de mocos o nariz tapada último año;-6,380010604416999e-16;BOSA;2021
+PM10;Casos de mocos o nariz tapada último año;-2,670864821688149e-16;BOSA;2021
+PM25;Casos de mocos o nariz tapada último año;1,2766038915079004e-16;BOSA;2021
+SO2;Casos de mocos o nariz tapada último año;;BOSA;2021
+CO;Prevalencia_total;-1,7360295263779e-16;BOSA;2021
+NO2;Prevalencia_total;6,146011408928665e-16;BOSA;2021
+O3;Prevalencia_total;6,322017791921664e-16;BOSA;2021
+PM10;Prevalencia_total;6,892118872393431e-16;BOSA;2021
+PM25;Prevalencia_total;-2,7400939545927622e-17;BOSA;2021
+SO2;Prevalencia_total;;BOSA;2021
+CO;Casos de sibilancia último año;-1,4687729878959678e-16;CIUDAD BOLIVAR;2020
+NO2;Casos de sibilancia último año;-9,062720311797814e-17;CIUDAD BOLIVAR;2020
+O3;Casos de sibilancia último año;1,3256567255411856e-16;CIUDAD BOLIVAR;2020
+PM10;Casos de sibilancia último año;-5,659475368227641e-17;CIUDAD BOLIVAR;2020
+PM25;Casos de sibilancia último año;-7,491624496756215e-17;CIUDAD BOLIVAR;2020
+SO2;Casos de sibilancia último año;-3,490134872512041e-16;CIUDAD BOLIVAR;2020
+CO;Casos de tos último año diferente gripa;1,8967606185174723e-17;CIUDAD BOLIVAR;2020
+NO2;Casos de tos último año diferente gripa;6,017811010469575e-17;CIUDAD BOLIVAR;2020
+O3;Casos de tos último año diferente gripa;-3,2089659356760754e-17;CIUDAD BOLIVAR;2020
+PM10;Casos de tos último año diferente gripa;-1,0591968904497977e-16;CIUDAD BOLIVAR;2020
+PM25;Casos de tos último año diferente gripa;-9,122397701914469e-17;CIUDAD BOLIVAR;2020
+SO2;Casos de tos último año diferente gripa;-5,352217423042993e-17;CIUDAD BOLIVAR;2020
+CO;Casos de mocos o nariz tapada último año;-1,4221032754185703e-17;CIUDAD BOLIVAR;2020
+NO2;Casos de mocos o nariz tapada último año;1,1250380596268122e-17;CIUDAD BOLIVAR;2020
+O3;Casos de mocos o nariz tapada último año;3,100501227834596e-17;CIUDAD BOLIVAR;2020
+PM10;Casos de mocos o nariz tapada último año;1,434755274294253e-16;CIUDAD BOLIVAR;2020
+PM25;Casos de mocos o nariz tapada último año;-4,065585593441583e-18;CIUDAD BOLIVAR;2020
+SO2;Casos de mocos o nariz tapada último año;-3,058057556748147e-17;CIUDAD BOLIVAR;2020
+CO;Prevalencia_total;6,057144872504085e-17;CIUDAD BOLIVAR;2020
+NO2;Prevalencia_total;2,718606403135193e-16;CIUDAD BOLIVAR;2020
+O3;Prevalencia_total;1,592122142995827e-16;CIUDAD BOLIVAR;2020
+PM10;Prevalencia_total;1,1897662868868364e-16;CIUDAD BOLIVAR;2020
+PM25;Prevalencia_total;-8,460994592388411e-18;CIUDAD BOLIVAR;2020
+SO2;Prevalencia_total;-4,308957655173858e-16;CIUDAD BOLIVAR;2020
+CO;Casos de sibilancia último año;5,529621489165968e-16;CIUDAD BOLIVAR;2021
+NO2;Casos de sibilancia último año;5,17013346153274e-16;CIUDAD BOLIVAR;2021
+O3;Casos de sibilancia último año;7,01372913508823e-16;CIUDAD BOLIVAR;2021
+PM10;Casos de sibilancia último año;1,274863247255505e-15;CIUDAD BOLIVAR;2021
+PM25;Casos de sibilancia último año;1,232934209216407e-15;CIUDAD BOLIVAR;2021
+SO2;Casos de sibilancia último año;2,5959028803118177e-17;CIUDAD BOLIVAR;2021
+CO;Casos de tos último año diferente gripa;3,2554417571362956e-16;CIUDAD BOLIVAR;2021
+NO2;Casos de tos último año diferente gripa;6,940486939308759e-16;CIUDAD BOLIVAR;2021
+O3;Casos de tos último año diferente gripa;5,19104448968216e-16;CIUDAD BOLIVAR;2021
+PM10;Casos de tos último año diferente gripa;8,000993508515992e-16;CIUDAD BOLIVAR;2021
+PM25;Casos de tos último año diferente gripa;8,257296062240477e-16;CIUDAD BOLIVAR;2021
+SO2;Casos de tos último año diferente gripa;-2,807965559738416e-16;CIUDAD BOLIVAR;2021
+CO;Casos de mocos o nariz tapada último año;-6,883457512485336e-16;CIUDAD BOLIVAR;2021
+NO2;Casos de mocos o nariz tapada último año;-5,1264409792335e-16;CIUDAD BOLIVAR;2021
+O3;Casos de mocos o nariz tapada último año;-3,395863074717341e-17;CIUDAD BOLIVAR;2021
+PM10;Casos de mocos o nariz tapada último año;-1,111920017735923e-15;CIUDAD BOLIVAR;2021
+PM25;Casos de mocos o nariz tapada último año;-1,0633489022321186e-15;CIUDAD BOLIVAR;2021
+SO2;Casos de mocos o nariz tapada último año;-3,3886529346588473e-16;CIUDAD BOLIVAR;2021
+CO;Prevalencia_total;1,051074103519028e-15;CIUDAD BOLIVAR;2021
+NO2;Prevalencia_total;-1,8607929029562502e-15;CIUDAD BOLIVAR;2021
+O3;Prevalencia_total;4,365701881101724e-16;CIUDAD BOLIVAR;2021
+PM10;Prevalencia_total;4,1402239629631524e-16;CIUDAD BOLIVAR;2021
+PM25;Prevalencia_total;1,871220356003895e-16;CIUDAD BOLIVAR;2021
+SO2;Prevalencia_total;1,4876124725616525e-15;CIUDAD BOLIVAR;2021
+CO;Casos de sibilancia último año;4,1474564500827326e-16;CIUDAD BOLIVAR;2022
+NO2;Casos de sibilancia último año;6,949276301795445e-16;CIUDAD BOLIVAR;2022
+O3;Casos de sibilancia último año;1,1140621637336167e-15;CIUDAD BOLIVAR;2022
+PM10;Casos de sibilancia último año;1,1305230034850764e-15;CIUDAD BOLIVAR;2022
+PM25;Casos de sibilancia último año;1,1679217211318871e-15;CIUDAD BOLIVAR;2022
+SO2;Casos de sibilancia último año;4,957720746875464e-16;CIUDAD BOLIVAR;2022
+CO;Casos de tos último año diferente gripa;-1,8784072272823955e-16;CIUDAD BOLIVAR;2022
+NO2;Casos de tos último año diferente gripa;-2,4181034074855464e-17;CIUDAD BOLIVAR;2022
+O3;Casos de tos último año diferente gripa;9,320648124137024e-17;CIUDAD BOLIVAR;2022
+PM10;Casos de tos último año diferente gripa;4,490267914059966e-18;CIUDAD BOLIVAR;2022
+PM25;Casos de tos último año diferente gripa;5,174068930777865e-16;CIUDAD BOLIVAR;2022
+SO2;Casos de tos último año diferente gripa;2,558912843426833e-16;CIUDAD BOLIVAR;2022
+CO;Casos de mocos o nariz tapada último año;-4,3560552055102936e-16;CIUDAD BOLIVAR;2022
+NO2;Casos de mocos o nariz tapada último año;-4,942680948654895e-16;CIUDAD BOLIVAR;2022
+O3;Casos de mocos o nariz tapada último año;7,461715929142923e-17;CIUDAD BOLIVAR;2022
+PM10;Casos de mocos o nariz tapada último año;-2,0047428745696046e-16;CIUDAD BOLIVAR;2022
+PM25;Casos de mocos o nariz tapada último año;2,292610560928933e-16;CIUDAD BOLIVAR;2022
+SO2;Casos de mocos o nariz tapada último año;7,273067021105714e-17;CIUDAD BOLIVAR;2022
+CO;Prevalencia_total;2,844465079814304e-16;CIUDAD BOLIVAR;2022
+NO2;Prevalencia_total;4,538538211700654e-16;CIUDAD BOLIVAR;2022
+O3;Prevalencia_total;3,026223710125425e-16;CIUDAD BOLIVAR;2022
+PM10;Prevalencia_total;5,26220867017023e-16;CIUDAD BOLIVAR;2022
+PM25;Prevalencia_total;5,954591814032302e-16;CIUDAD BOLIVAR;2022
+SO2;Prevalencia_total;1,856986932514802e-16;CIUDAD BOLIVAR;2022
+CO;Casos de sibilancia último año;-2,7204428122803564e-16;CIUDAD BOLIVAR;2023
+NO2;Casos de sibilancia último año;-2,926988145684365e-17;CIUDAD BOLIVAR;2023
+O3;Casos de sibilancia último año;-1,26594806457487e-16;CIUDAD BOLIVAR;2023
+PM10;Casos de sibilancia último año;-2,5351485814370164e-16;CIUDAD BOLIVAR;2023
+PM25;Casos de sibilancia último año;-3,596183066311577e-16;CIUDAD BOLIVAR;2023
+SO2;Casos de sibilancia último año;-2,0237106837570344e-17;CIUDAD BOLIVAR;2023
+CO;Casos de tos último año diferente gripa;3,1053729960166657e-16;CIUDAD BOLIVAR;2023
+NO2;Casos de tos último año diferente gripa;6,613825519196154e-16;CIUDAD BOLIVAR;2023
+O3;Casos de tos último año diferente gripa;-1,6857575748801323e-16;CIUDAD BOLIVAR;2023
+PM10;Casos de tos último año diferente gripa;4,910521379515165e-16;CIUDAD BOLIVAR;2023
+PM25;Casos de tos último año diferente gripa;4,273937984833605e-16;CIUDAD BOLIVAR;2023
+SO2;Casos de tos último año diferente gripa;4,0234078409696317e-16;CIUDAD BOLIVAR;2023
+CO;Casos de mocos o nariz tapada último año;2,6396449352443783e-16;CIUDAD BOLIVAR;2023
+NO2;Casos de mocos o nariz tapada último año;-9,824260219463928e-16;CIUDAD BOLIVAR;2023
+O3;Casos de mocos o nariz tapada último año;2,8189947268587622e-15;CIUDAD BOLIVAR;2023
+PM10;Casos de mocos o nariz tapada último año;2,6724845061958303e-17;CIUDAD BOLIVAR;2023
+PM25;Casos de mocos o nariz tapada último año;3,1988780009401714e-16;CIUDAD BOLIVAR;2023
+SO2;Casos de mocos o nariz tapada último año;-3,1723296874109996e-16;CIUDAD BOLIVAR;2023
+CO;Prevalencia_total;-2,695676591332742e-16;CIUDAD BOLIVAR;2023
+NO2;Prevalencia_total;-7,027140280370352e-16;CIUDAD BOLIVAR;2023
+O3;Prevalencia_total;3,7578576458989637e-16;CIUDAD BOLIVAR;2023
+PM10;Prevalencia_total;-6,087034982309258e-16;CIUDAD BOLIVAR;2023
+PM25;Prevalencia_total;-7,67691790469245e-16;CIUDAD BOLIVAR;2023
+SO2;Prevalencia_total;-4,405076197955042e-16;CIUDAD BOLIVAR;2023
+CO;Casos de sibilancia último año;1,0558937139073555e-15;KENNEDY;2020
+NO2;Casos de sibilancia último año;6,633640466789872e-16;KENNEDY;2020
+O3;Casos de sibilancia último año;1,140086042783319e-15;KENNEDY;2020
+PM10;Casos de sibilancia último año;2,8267840776288605e-16;KENNEDY;2020
+PM25;Casos de sibilancia último año;9,68183726781592e-16;KENNEDY;2020
+SO2;Casos de sibilancia último año;5,857741524744994e-17;KENNEDY;2020
+CO;Casos de tos último año diferente gripa;-1,8014490713375597e-15;KENNEDY;2020
+NO2;Casos de tos último año diferente gripa;-1,7400126369256323e-15;KENNEDY;2020
+O3;Casos de tos último año diferente gripa;2,394489894963833e-15;KENNEDY;2020
+PM10;Casos de tos último año diferente gripa;-1,9780089492402033e-15;KENNEDY;2020
+PM25;Casos de tos último año diferente gripa;-3,2807581981253654e-16;KENNEDY;2020
+SO2;Casos de tos último año diferente gripa;-1,822368676147223e-15;KENNEDY;2020
+CO;Casos de mocos o nariz tapada último año;-1,749647787507167e-15;KENNEDY;2020
+NO2;Casos de mocos o nariz tapada último año;-1,3063815138472514e-15;KENNEDY;2020
+O3;Casos de mocos o nariz tapada último año;1,6167666334364275e-15;KENNEDY;2020
+PM10;Casos de mocos o nariz tapada último año;-1,4578501009735196e-15;KENNEDY;2020
+PM25;Casos de mocos o nariz tapada último año;-3,6874944765740204e-16;KENNEDY;2020
+SO2;Casos de mocos o nariz tapada último año;-1,251637924229881e-15;KENNEDY;2020
+CO;Prevalencia_total;-1,012278252116182e-15;KENNEDY;2020
+NO2;Prevalencia_total;-8,062026045512012e-16;KENNEDY;2020
+O3;Prevalencia_total;8,880082960618508e-16;KENNEDY;2020
+PM10;Prevalencia_total;-1,1966893181552467e-15;KENNEDY;2020
+PM25;Prevalencia_total;-7,5041307803909e-16;KENNEDY;2020
+SO2;Prevalencia_total;-7,440869052031554e-16;KENNEDY;2020
+CO;Casos de sibilancia último año;-1,4529068847395889e-15;KENNEDY;2021
+NO2;Casos de sibilancia último año;-1,797744978895314e-15;KENNEDY;2021
+O3;Casos de sibilancia último año;9,942044192255627e-16;KENNEDY;2021
+PM10;Casos de sibilancia último año;-1,993770507462278e-15;KENNEDY;2021
+PM25;Casos de sibilancia último año;-1,927726747772572e-15;KENNEDY;2021
+SO2;Casos de sibilancia último año;-7,738407327191002e-16;KENNEDY;2021
+CO;Casos de tos último año diferente gripa;1,799653459868577e-15;KENNEDY;2021
+NO2;Casos de tos último año diferente gripa;-4,650250996457445e-16;KENNEDY;2021
+O3;Casos de tos último año diferente gripa;-1,3584174530173888e-15;KENNEDY;2021
+PM10;Casos de tos último año diferente gripa;1,6431839329342722e-15;KENNEDY;2021
+PM25;Casos de tos último año diferente gripa;1,5842829502979256e-15;KENNEDY;2021
+SO2;Casos de tos último año diferente gripa;1,6327462918498954e-15;KENNEDY;2021
+CO;Casos de mocos o nariz tapada último año;-1,6907580454010974e-15;KENNEDY;2021
+NO2;Casos de mocos o nariz tapada último año;-8,977001048333302e-16;KENNEDY;2021
+O3;Casos de mocos o nariz tapada último año;1,1744072473806773e-15;KENNEDY;2021
+PM10;Casos de mocos o nariz tapada último año;-1,4152157212704192e-15;KENNEDY;2021
+PM25;Casos de mocos o nariz tapada último año;-1,3525255399164594e-15;KENNEDY;2021
+SO2;Casos de mocos o nariz tapada último año;-7,852921832548941e-16;KENNEDY;2021
+CO;Prevalencia_total;-6,110082797843702e-16;KENNEDY;2021
+NO2;Prevalencia_total;-7,246788854281092e-16;KENNEDY;2021
+O3;Prevalencia_total;6,055776858209662e-16;KENNEDY;2021
+PM10;Prevalencia_total;1,8201662186634656e-16;KENNEDY;2021
+PM25;Prevalencia_total;3,404234378601862e-16;KENNEDY;2021
+SO2;Prevalencia_total;-1,9279792735777868e-16;KENNEDY;2021
+CO;Casos de sibilancia último año;-1,6733816549177215e-15;KENNEDY;2022
+NO2;Casos de sibilancia último año;-5,39233302207721e-16;KENNEDY;2022
+O3;Casos de sibilancia último año;5,938933653056279e-16;KENNEDY;2022
+PM10;Casos de sibilancia último año;-1,1607882938240204e-15;KENNEDY;2022
+PM25;Casos de sibilancia último año;-1,3163963082181373e-15;KENNEDY;2022
+SO2;Casos de sibilancia último año;-3,4048096811686333e-16;KENNEDY;2022
+CO;Casos de tos último año diferente gripa;4,0347225174041867e-16;KENNEDY;2022
+NO2;Casos de tos último año diferente gripa;1,5887054319248447e-16;KENNEDY;2022
+O3;Casos de tos último año diferente gripa;-4,5561251372322175e-17;KENNEDY;2022
+PM10;Casos de tos último año diferente gripa;4,059278253819119e-16;KENNEDY;2022
+PM25;Casos de tos último año diferente gripa;3,9747249889703043e-16;KENNEDY;2022
+SO2;Casos de tos último año diferente gripa;1,9605419244938364e-16;KENNEDY;2022
+CO;Casos de mocos o nariz tapada último año;-1,1112192399332382e-15;KENNEDY;2022
+NO2;Casos de mocos o nariz tapada último año;-3,7193964860469784e-16;KENNEDY;2022
+O3;Casos de mocos o nariz tapada último año;2,81346965930841e-16;KENNEDY;2022
+PM10;Casos de mocos o nariz tapada último año;-1,0772036832295222e-15;KENNEDY;2022
+PM25;Casos de mocos o nariz tapada último año;-8,544342776937683e-16;KENNEDY;2022
+SO2;Casos de mocos o nariz tapada último año;-5,573801591580306e-16;KENNEDY;2022
+CO;Prevalencia_total;7,668144923050134e-16;KENNEDY;2022
+NO2;Prevalencia_total;-5,339600046388e-16;KENNEDY;2022
+O3;Prevalencia_total;-1,0622801845310931e-15;KENNEDY;2022
+PM10;Prevalencia_total;7,988373003288914e-16;KENNEDY;2022
+PM25;Prevalencia_total;9,293251736526356e-16;KENNEDY;2022
+SO2;Prevalencia_total;-8,601497268417333e-17;KENNEDY;2022
+CO;Casos de sibilancia último año;8,277315213134597e-17;KENNEDY;2023
+NO2;Casos de sibilancia último año;1,2132240001813549e-15;KENNEDY;2023
+O3;Casos de sibilancia último año;-3,260906022252749e-16;KENNEDY;2023
+PM10;Casos de sibilancia último año;4,637347266683346e-16;KENNEDY;2023
+PM25;Casos de sibilancia último año;-6,287750445123629e-16;KENNEDY;2023
+SO2;Casos de sibilancia último año;3,576377244087189e-16;KENNEDY;2023
+CO;Casos de tos último año diferente gripa;-6,247594167740844e-17;KENNEDY;2023
+NO2;Casos de tos último año diferente gripa;5,2028834496116174e-17;KENNEDY;2023
+O3;Casos de tos último año diferente gripa;1,0675959428418803e-16;KENNEDY;2023
+PM10;Casos de tos último año diferente gripa;7,52584612993229e-17;KENNEDY;2023
+PM25;Casos de tos último año diferente gripa;1,5555216844507273e-16;KENNEDY;2023
+SO2;Casos de tos último año diferente gripa;7,553613284935746e-18;KENNEDY;2023
+CO;Casos de mocos o nariz tapada último año;-1,5681407842621937e-16;KENNEDY;2023
+NO2;Casos de mocos o nariz tapada último año;1,25440564702302e-15;KENNEDY;2023
+O3;Casos de mocos o nariz tapada último año;5,536269165529318e-16;KENNEDY;2023
+PM10;Casos de mocos o nariz tapada último año;4,803115010984648e-16;KENNEDY;2023
+PM25;Casos de mocos o nariz tapada último año;3,186222282275437e-16;KENNEDY;2023
+SO2;Casos de mocos o nariz tapada último año;1,386286951546266e-16;KENNEDY;2023
+CO;Prevalencia_total;-5,1586831126067907e-17;KENNEDY;2023
+NO2;Prevalencia_total;-6,926486876414672e-16;KENNEDY;2023
+O3;Prevalencia_total;-4,1256327255699934e-16;KENNEDY;2023
+PM10;Prevalencia_total;-1,0979881465450755e-15;KENNEDY;2023
+PM25;Prevalencia_total;-1,0637139666127811e-15;KENNEDY;2023
+SO2;Prevalencia_total;-1,4704268174061587e-16;KENNEDY;2023
+CO;Casos de sibilancia último año;6,964335596288975e-16;PUENTE ARANDA;2020
+NO2;Casos de sibilancia último año;4,2155310937315786e-16;PUENTE ARANDA;2020
+O3;Casos de sibilancia último año;-1,7807547088357138e-16;PUENTE ARANDA;2020
+PM10;Casos de sibilancia último año;9,539738519080532e-17;PUENTE ARANDA;2020
+PM25;Casos de sibilancia último año;3,380539565890239e-17;PUENTE ARANDA;2020
+SO2;Casos de sibilancia último año;4,873503237400006e-17;PUENTE ARANDA;2020
+CO;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+NO2;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+O3;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+PM10;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+PM25;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+SO2;Casos de tos último año diferente gripa;;PUENTE ARANDA;2020
+CO;Casos de mocos o nariz tapada último año;-1,6911112745484705e-16;PUENTE ARANDA;2020
+NO2;Casos de mocos o nariz tapada último año;-3,130534258173186e-16;PUENTE ARANDA;2020
+O3;Casos de mocos o nariz tapada último año;6,353816593560478e-17;PUENTE ARANDA;2020
+PM10;Casos de mocos o nariz tapada último año;-1,147179880142219e-16;PUENTE ARANDA;2020
+PM25;Casos de mocos o nariz tapada último año;4,278208295569579e-17;PUENTE ARANDA;2020
+SO2;Casos de mocos o nariz tapada último año;-1,8433279134447896e-16;PUENTE ARANDA;2020
+CO;Prevalencia_total;2,2720569258248703e-16;PUENTE ARANDA;2020
+NO2;Prevalencia_total;4,5751032721799827e-17;PUENTE ARANDA;2020
+O3;Prevalencia_total;-3,0371278683922956e-18;PUENTE ARANDA;2020
+PM10;Prevalencia_total;5,559604836651189e-16;PUENTE ARANDA;2020
+PM25;Prevalencia_total;7,442988582512188e-16;PUENTE ARANDA;2020
+SO2;Prevalencia_total;-8,667865485160484e-18;PUENTE ARANDA;2020
+CO;Casos de sibilancia último año;;PUENTE ARANDA;2021
+NO2;Casos de sibilancia último año;;PUENTE ARANDA;2021
+O3;Casos de sibilancia último año;;PUENTE ARANDA;2021
+PM10;Casos de sibilancia último año;;PUENTE ARANDA;2021
+PM25;Casos de sibilancia último año;;PUENTE ARANDA;2021
+SO2;Casos de sibilancia último año;;PUENTE ARANDA;2021
+CO;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+NO2;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+O3;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+PM10;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+PM25;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+SO2;Casos de tos último año diferente gripa;;PUENTE ARANDA;2021
+CO;Casos de mocos o nariz tapada último año;-5,1253803732911874e-17;PUENTE ARANDA;2021
+NO2;Casos de mocos o nariz tapada último año;-7,492444988391047e-17;PUENTE ARANDA;2021
+O3;Casos de mocos o nariz tapada último año;-1,9057543116530959e-16;PUENTE ARANDA;2021
+PM10;Casos de mocos o nariz tapada último año;-2,8541691034353046e-16;PUENTE ARANDA;2021
+PM25;Casos de mocos o nariz tapada último año;-5,358316265299902e-17;PUENTE ARANDA;2021
+SO2;Casos de mocos o nariz tapada último año;1,6763599195779249e-16;PUENTE ARANDA;2021
+CO;Prevalencia_total;-1,2228490721874526e-15;PUENTE ARANDA;2021
+NO2;Prevalencia_total;-4,336262869925893e-16;PUENTE ARANDA;2021
+O3;Prevalencia_total;1,1817271356044671e-15;PUENTE ARANDA;2021
+PM10;Prevalencia_total;-1,2514822674754607e-15;PUENTE ARANDA;2021
+PM25;Prevalencia_total;-1,5812438047099946e-15;PUENTE ARANDA;2021
+SO2;Prevalencia_total;-9,769569548204905e-17;PUENTE ARANDA;2021
+CO;Casos de sibilancia último año;-4,5127962285229145e-17;PUENTE ARANDA;2022
+NO2;Casos de sibilancia último año;-8,743846197888367e-17;PUENTE ARANDA;2022
+O3;Casos de sibilancia último año;1,2656559296073617e-16;PUENTE ARANDA;2022
+PM10;Casos de sibilancia último año;-1,2449711628422502e-15;PUENTE ARANDA;2022
+PM25;Casos de sibilancia último año;-3,920430165676523e-16;PUENTE ARANDA;2022
+SO2;Casos de sibilancia último año;-2,454022025126503e-16;PUENTE ARANDA;2022
+CO;Casos de tos último año diferente gripa;-6,11083836650232e-17;PUENTE ARANDA;2022
+NO2;Casos de tos último año diferente gripa;6,6460078465765315e-16;PUENTE ARANDA;2022
+O3;Casos de tos último año diferente gripa;-2,8698756708688276e-16;PUENTE ARANDA;2022
+PM10;Casos de tos último año diferente gripa;-6,843796845102784e-16;PUENTE ARANDA;2022
+PM25;Casos de tos último año diferente gripa;-1,6374942310318694e-16;PUENTE ARANDA;2022
+SO2;Casos de tos último año diferente gripa;4,244129755269111e-17;PUENTE ARANDA;2022
+CO;Casos de mocos o nariz tapada último año;5,77293426715645e-17;PUENTE ARANDA;2022
+NO2;Casos de mocos o nariz tapada último año;-2,4879373262491777e-16;PUENTE ARANDA;2022
+O3;Casos de mocos o nariz tapada último año;3,873077520627291e-16;PUENTE ARANDA;2022
+PM10;Casos de mocos o nariz tapada último año;9,021051767768684e-17;PUENTE ARANDA;2022
+PM25;Casos de mocos o nariz tapada último año;1,7617267864864786e-16;PUENTE ARANDA;2022
+SO2;Casos de mocos o nariz tapada último año;-5,772610954127831e-17;PUENTE ARANDA;2022
+CO;Prevalencia_total;2,0899663288606706e-16;PUENTE ARANDA;2022
+NO2;Prevalencia_total;3,727852206819777e-16;PUENTE ARANDA;2022
+O3;Prevalencia_total;6,176222823191173e-17;PUENTE ARANDA;2022
+PM10;Prevalencia_total;-5,048207092778047e-17;PUENTE ARANDA;2022
+PM25;Prevalencia_total;6,182208481472292e-16;PUENTE ARANDA;2022
+SO2;Prevalencia_total;2,3745390565194564e-16;PUENTE ARANDA;2022
+CO;Casos de sibilancia último año;-1,8599462265536103e-17;PUENTE ARANDA;2023
+NO2;Casos de sibilancia último año;3,2202045055271136e-18;PUENTE ARANDA;2023
+O3;Casos de sibilancia último año;5,61496653642974e-16;PUENTE ARANDA;2023
+PM10;Casos de sibilancia último año;7,786622698537541e-17;PUENTE ARANDA;2023
+PM25;Casos de sibilancia último año;6,900861739073835e-17;PUENTE ARANDA;2023
+SO2;Casos de sibilancia último año;2,5508255969490827e-16;PUENTE ARANDA;2023
+CO;Casos de tos último año diferente gripa;9,207701706350959e-18;PUENTE ARANDA;2023
+NO2;Casos de tos último año diferente gripa;3,448836243845453e-16;PUENTE ARANDA;2023
+O3;Casos de tos último año diferente gripa;-6,837567633323336e-16;PUENTE ARANDA;2023
+PM10;Casos de tos último año diferente gripa;1,2603422329422834e-16;PUENTE ARANDA;2023
+PM25;Casos de tos último año diferente gripa;2,342787411383929e-17;PUENTE ARANDA;2023
+SO2;Casos de tos último año diferente gripa;-4,393413826896393e-18;PUENTE ARANDA;2023
+CO;Casos de mocos o nariz tapada último año;1,710301961765943e-16;PUENTE ARANDA;2023
+NO2;Casos de mocos o nariz tapada último año;2,363434839924946e-16;PUENTE ARANDA;2023
+O3;Casos de mocos o nariz tapada último año;1,1455979959245946e-16;PUENTE ARANDA;2023
+PM10;Casos de mocos o nariz tapada último año;1,1199526547969543e-16;PUENTE ARANDA;2023
+PM25;Casos de mocos o nariz tapada último año;1,3259955783259074e-17;PUENTE ARANDA;2023
+SO2;Casos de mocos o nariz tapada último año;3,005466976304396e-16;PUENTE ARANDA;2023
+CO;Prevalencia_total;2,978857941970477e-16;PUENTE ARANDA;2023
+NO2;Prevalencia_total;5,659262994494159e-16;PUENTE ARANDA;2023
+O3;Prevalencia_total;4,3503783345076766e-16;PUENTE ARANDA;2023
+PM10;Prevalencia_total;1,624320285263461e-16;PUENTE ARANDA;2023
+PM25;Prevalencia_total;7,53606617993929e-17;PUENTE ARANDA;2023
+SO2;Prevalencia_total;3,8000803243169657e-16;PUENTE ARANDA;2023
+CO;Casos de sibilancia último año;;SAN CRISTOBAL;2020
+NO2;Casos de sibilancia último año;5,892979443878944e-17;SAN CRISTOBAL;2020
+O3;Casos de sibilancia último año;3,7437473392032224e-17;SAN CRISTOBAL;2020
+PM10;Casos de sibilancia último año;-1,4307605332969885e-16;SAN CRISTOBAL;2020
+PM25;Casos de sibilancia último año;-8,672331398907734e-17;SAN CRISTOBAL;2020
+SO2;Casos de sibilancia último año;;SAN CRISTOBAL;2020
+CO;Casos de tos último año diferente gripa;;SAN CRISTOBAL;2020
+NO2;Casos de tos último año diferente gripa;2,478230696805607e-16;SAN CRISTOBAL;2020
+O3;Casos de tos último año diferente gripa;-2,304187522326001e-16;SAN CRISTOBAL;2020
+PM10;Casos de tos último año diferente gripa;-2,7328543988548008e-17;SAN CRISTOBAL;2020
+PM25;Casos de tos último año diferente gripa;1,684185071487319e-17;SAN CRISTOBAL;2020
+SO2;Casos de tos último año diferente gripa;;SAN CRISTOBAL;2020
+CO;Casos de mocos o nariz tapada último año;;SAN CRISTOBAL;2020
+NO2;Casos de mocos o nariz tapada último año;1,3698070173747865e-16;SAN CRISTOBAL;2020
+O3;Casos de mocos o nariz tapada último año;-8,515681096870096e-17;SAN CRISTOBAL;2020
+PM10;Casos de mocos o nariz tapada último año;7,360182331386866e-18;SAN CRISTOBAL;2020
+PM25;Casos de mocos o nariz tapada último año;4,485375113960336e-17;SAN CRISTOBAL;2020
+SO2;Casos de mocos o nariz tapada último año;;SAN CRISTOBAL;2020
+CO;Prevalencia_total;;SAN CRISTOBAL;2020
+NO2;Prevalencia_total;-4,2408951931212477e-16;SAN CRISTOBAL;2020
+O3;Prevalencia_total;4,3829092002253406e-16;SAN CRISTOBAL;2020
+PM10;Prevalencia_total;-3,585100298588923e-16;SAN CRISTOBAL;2020
+PM25;Prevalencia_total;-3,5864479251701003e-16;SAN CRISTOBAL;2020
+SO2;Prevalencia_total;;SAN CRISTOBAL;2020
+CO;Casos de sibilancia último año;3,178370381715677e-16;SAN CRISTOBAL;2021
+NO2;Casos de sibilancia último año;3,8411749309511827e-16;SAN CRISTOBAL;2021
+O3;Casos de sibilancia último año;8,905691373818077e-17;SAN CRISTOBAL;2021
+PM10;Casos de sibilancia último año;5,087816121371766e-16;SAN CRISTOBAL;2021
+PM25;Casos de sibilancia último año;5,231250010182289e-16;SAN CRISTOBAL;2021
+SO2;Casos de sibilancia último año;;SAN CRISTOBAL;2021
+CO;Casos de tos último año diferente gripa;-3,7661337848806337e-16;SAN CRISTOBAL;2021
+NO2;Casos de tos último año diferente gripa;-2,371671038173315e-16;SAN CRISTOBAL;2021
+O3;Casos de tos último año diferente gripa;1,8580592221852215e-16;SAN CRISTOBAL;2021
+PM10;Casos de tos último año diferente gripa;-3,244917840161607e-16;SAN CRISTOBAL;2021
+PM25;Casos de tos último año diferente gripa;-4,297214395411702e-16;SAN CRISTOBAL;2021
+SO2;Casos de tos último año diferente gripa;;SAN CRISTOBAL;2021
+CO;Casos de mocos o nariz tapada último año;9,754291746172361e-16;SAN CRISTOBAL;2021
+NO2;Casos de mocos o nariz tapada último año;1,16330418327475e-15;SAN CRISTOBAL;2021
+O3;Casos de mocos o nariz tapada último año;5,54960806485019e-16;SAN CRISTOBAL;2021
+PM10;Casos de mocos o nariz tapada último año;1,7005111215160704e-15;SAN CRISTOBAL;2021
+PM25;Casos de mocos o nariz tapada último año;1,689123372408619e-15;SAN CRISTOBAL;2021
+SO2;Casos de mocos o nariz tapada último año;;SAN CRISTOBAL;2021
+CO;Prevalencia_total;9,955763752406175e-16;SAN CRISTOBAL;2021
+NO2;Prevalencia_total;1,1385489549075703e-15;SAN CRISTOBAL;2021
+O3;Prevalencia_total;5,699388899930494e-16;SAN CRISTOBAL;2021
+PM10;Prevalencia_total;1,7855047678655943e-15;SAN CRISTOBAL;2021
+PM25;Prevalencia_total;1,81998958903298e-15;SAN CRISTOBAL;2021
+SO2;Prevalencia_total;;SAN CRISTOBAL;2021
+CO;Casos de sibilancia último año;4,118414215974634e-18;SAN CRISTOBAL;2022
+NO2;Casos de sibilancia último año;-2,6398865017555786e-16;SAN CRISTOBAL;2022
+O3;Casos de sibilancia último año;1,1869821553153267e-16;SAN CRISTOBAL;2022
+PM10;Casos de sibilancia último año;-1,9292918112340766e-16;SAN CRISTOBAL;2022
+PM25;Casos de sibilancia último año;-2,431756119463491e-16;SAN CRISTOBAL;2022
+SO2;Casos de sibilancia último año;;SAN CRISTOBAL;2022
+CO;Casos de tos último año diferente gripa;9,099436170278657e-17;SAN CRISTOBAL;2022
+NO2;Casos de tos último año diferente gripa;1,0423307624366984e-16;SAN CRISTOBAL;2022
+O3;Casos de tos último año diferente gripa;-7,905263845650478e-18;SAN CRISTOBAL;2022
+PM10;Casos de tos último año diferente gripa;1,7058341599948524e-16;SAN CRISTOBAL;2022
+PM25;Casos de tos último año diferente gripa;2,695739274191516e-16;SAN CRISTOBAL;2022
+SO2;Casos de tos último año diferente gripa;;SAN CRISTOBAL;2022
+CO;Casos de mocos o nariz tapada último año;-6,972369026809335e-16;SAN CRISTOBAL;2022
+NO2;Casos de mocos o nariz tapada último año;-1,216855480750481e-15;SAN CRISTOBAL;2022
+O3;Casos de mocos o nariz tapada último año;-7,988168974498895e-16;SAN CRISTOBAL;2022
+PM10;Casos de mocos o nariz tapada último año;-1,4335688706667645e-15;SAN CRISTOBAL;2022
+PM25;Casos de mocos o nariz tapada último año;-1,7458924755709785e-15;SAN CRISTOBAL;2022
+SO2;Casos de mocos o nariz tapada último año;;SAN CRISTOBAL;2022
+CO;Prevalencia_total;2,414572277668386e-16;SAN CRISTOBAL;2022
+NO2;Prevalencia_total;5,326022399664647e-16;SAN CRISTOBAL;2022
+O3;Prevalencia_total;2,6592004426221183e-17;SAN CRISTOBAL;2022
+PM10;Prevalencia_total;5,952069660496175e-16;SAN CRISTOBAL;2022
+PM25;Prevalencia_total;7,4205009240823475e-16;SAN CRISTOBAL;2022
+SO2;Prevalencia_total;;SAN CRISTOBAL;2022
+CO;Casos de sibilancia último año;-2,0134210699236335e-16;SAN CRISTOBAL;2023
+NO2;Casos de sibilancia último año;-6,823978687263723e-17;SAN CRISTOBAL;2023
+O3;Casos de sibilancia último año;6,818244683188483e-17;SAN CRISTOBAL;2023
+PM10;Casos de sibilancia último año;-2,5932791577203223e-16;SAN CRISTOBAL;2023
+PM25;Casos de sibilancia último año;-3,033551388277721e-16;SAN CRISTOBAL;2023
+SO2;Casos de sibilancia último año;;SAN CRISTOBAL;2023
+CO;Casos de tos último año diferente gripa;5,396952970127875e-16;SAN CRISTOBAL;2023
+NO2;Casos de tos último año diferente gripa;-2,70467971581393e-16;SAN CRISTOBAL;2023
+O3;Casos de tos último año diferente gripa;5,302166341267077e-16;SAN CRISTOBAL;2023
+PM10;Casos de tos último año diferente gripa;4,666861901955239e-16;SAN CRISTOBAL;2023
+PM25;Casos de tos último año diferente gripa;1,0540189706819063e-15;SAN CRISTOBAL;2023
+SO2;Casos de tos último año diferente gripa;;SAN CRISTOBAL;2023
+CO;Casos de mocos o nariz tapada último año;1,2667585200019063e-16;SAN CRISTOBAL;2023
+NO2;Casos de mocos o nariz tapada último año;2,5109923715424603e-16;SAN CRISTOBAL;2023
+O3;Casos de mocos o nariz tapada último año;5,2720887605310515e-18;SAN CRISTOBAL;2023
+PM10;Casos de mocos o nariz tapada último año;1,3380857713955445e-16;SAN CRISTOBAL;2023
+PM25;Casos de mocos o nariz tapada último año;1,3967978157989872e-16;SAN CRISTOBAL;2023
+SO2;Casos de mocos o nariz tapada último año;;SAN CRISTOBAL;2023
+CO;Prevalencia_total;-2,015113040356364e-16;SAN CRISTOBAL;2023
+NO2;Prevalencia_total;-8,19982249051164e-16;SAN CRISTOBAL;2023
+O3;Prevalencia_total;-9,282790569922273e-16;SAN CRISTOBAL;2023
+PM10;Prevalencia_total;-1,1664150199425424e-15;SAN CRISTOBAL;2023
+PM25;Prevalencia_total;-1,240017482437031e-15;SAN CRISTOBAL;2023
+SO2;Prevalencia_total;;SAN CRISTOBAL;2023
+CO;Casos de sibilancia último año;-6,15305170754448e-16;SANTA FE;2020
+NO2;Casos de sibilancia último año;;SANTA FE;2020
+O3;Casos de sibilancia último año;1,2701820005648769e-16;SANTA FE;2020
+PM10;Casos de sibilancia último año;-1,8208841331051389e-16;SANTA FE;2020
+PM25;Casos de sibilancia último año;-1,7179090451662685e-16;SANTA FE;2020
+SO2;Casos de sibilancia último año;7,746783937134188e-17;SANTA FE;2020
+CO;Casos de tos último año diferente gripa;-6,47101076358635e-17;SANTA FE;2020
+NO2;Casos de tos último año diferente gripa;;SANTA FE;2020
+O3;Casos de tos último año diferente gripa;2,616043919640813e-16;SANTA FE;2020
+PM10;Casos de tos último año diferente gripa;2,5221931209045436e-17;SANTA FE;2020
+PM25;Casos de tos último año diferente gripa;1,3481732163918028e-17;SANTA FE;2020
+SO2;Casos de tos último año diferente gripa;5,646699393624945e-17;SANTA FE;2020
+CO;Casos de mocos o nariz tapada último año;-2,8944871325014534e-17;SANTA FE;2020
+NO2;Casos de mocos o nariz tapada último año;;SANTA FE;2020
+O3;Casos de mocos o nariz tapada último año;-7,919001975944837e-17;SANTA FE;2020
+PM10;Casos de mocos o nariz tapada último año;1,1278242654747113e-16;SANTA FE;2020
+PM25;Casos de mocos o nariz tapada último año;1,4020475764871973e-16;SANTA FE;2020
+SO2;Casos de mocos o nariz tapada último año;1,4387157101973034e-16;SANTA FE;2020
+CO;Prevalencia_total;-3,4190732717860284e-16;SANTA FE;2020
+NO2;Prevalencia_total;;SANTA FE;2020
+O3;Prevalencia_total;-1,4866366191783464e-16;SANTA FE;2020
+PM10;Prevalencia_total;-1,5450414754590427e-16;SANTA FE;2020
+PM25;Prevalencia_total;-1,308631971579072e-16;SANTA FE;2020
+SO2;Prevalencia_total;1,3624275009002068e-17;SANTA FE;2020
+CO;Casos de sibilancia último año;1,1362130892130176e-16;SANTA FE;2021
+NO2;Casos de sibilancia último año;1,5684933602592152e-16;SANTA FE;2021
+O3;Casos de sibilancia último año;-9,792921165649412e-17;SANTA FE;2021
+PM10;Casos de sibilancia último año;7,307372218340698e-16;SANTA FE;2021
+PM25;Casos de sibilancia último año;5,080063422089357e-16;SANTA FE;2021
+SO2;Casos de sibilancia último año;;SANTA FE;2021
+CO;Casos de tos último año diferente gripa;-8,705388322620519e-17;SANTA FE;2021
+NO2;Casos de tos último año diferente gripa;3,7357993080442287e-16;SANTA FE;2021
+O3;Casos de tos último año diferente gripa;2,6978240860232615e-16;SANTA FE;2021
+PM10;Casos de tos último año diferente gripa;4,881684256028252e-16;SANTA FE;2021
+PM25;Casos de tos último año diferente gripa;4,2325076977242604e-16;SANTA FE;2021
+SO2;Casos de tos último año diferente gripa;;SANTA FE;2021
+CO;Casos de mocos o nariz tapada último año;-6,522958083843596e-17;SANTA FE;2021
+NO2;Casos de mocos o nariz tapada último año;-5,507502387216264e-16;SANTA FE;2021
+O3;Casos de mocos o nariz tapada último año;2,2620262302319146e-16;SANTA FE;2021
+PM10;Casos de mocos o nariz tapada último año;-5,758305406165055e-16;SANTA FE;2021
+PM25;Casos de mocos o nariz tapada último año;-4,710371845887151e-16;SANTA FE;2021
+SO2;Casos de mocos o nariz tapada último año;;SANTA FE;2021
+CO;Prevalencia_total;-4,983553657954605e-16;SANTA FE;2021
+NO2;Prevalencia_total;-2,0572418586784848e-15;SANTA FE;2021
+O3;Prevalencia_total;1,8157653831701527e-16;SANTA FE;2021
+PM10;Prevalencia_total;-1,9973447465307776e-15;SANTA FE;2021
+PM25;Prevalencia_total;-1,5247531795594938e-15;SANTA FE;2021
+SO2;Prevalencia_total;;SANTA FE;2021
+CO;Casos de sibilancia último año;5,2305502439952945e-17;SANTA FE;2022
+NO2;Casos de sibilancia último año;1,611776787835129e-16;SANTA FE;2022
+O3;Casos de sibilancia último año;1,769063606746801e-16;SANTA FE;2022
+PM10;Casos de sibilancia último año;3,375460811652977e-16;SANTA FE;2022
+PM25;Casos de sibilancia último año;3,577798657247236e-16;SANTA FE;2022
+SO2;Casos de sibilancia último año;;SANTA FE;2022
+CO;Casos de tos último año diferente gripa;1,0869589006116953e-17;SANTA FE;2022
+NO2;Casos de tos último año diferente gripa;-7,047032141246728e-17;SANTA FE;2022
+O3;Casos de tos último año diferente gripa;-1,3677449888228308e-16;SANTA FE;2022
+PM10;Casos de tos último año diferente gripa;-8,945797897380516e-17;SANTA FE;2022
+PM25;Casos de tos último año diferente gripa;-1,1124557356810255e-16;SANTA FE;2022
+SO2;Casos de tos último año diferente gripa;;SANTA FE;2022
+CO;Casos de mocos o nariz tapada último año;-1,1770391757850256e-16;SANTA FE;2022
+NO2;Casos de mocos o nariz tapada último año;-6,380285452554717e-16;SANTA FE;2022
+O3;Casos de mocos o nariz tapada último año;-7,378402410990566e-16;SANTA FE;2022
+PM10;Casos de mocos o nariz tapada último año;-1,4463320426948165e-15;SANTA FE;2022
+PM25;Casos de mocos o nariz tapada último año;-1,4910234579050928e-15;SANTA FE;2022
+SO2;Casos de mocos o nariz tapada último año;;SANTA FE;2022
+CO;Prevalencia_total;7,538285453203272e-16;SANTA FE;2022
+NO2;Prevalencia_total;9,899950095710297e-16;SANTA FE;2022
+O3;Prevalencia_total;2,7609919311558533e-16;SANTA FE;2022
+PM10;Prevalencia_total;1,2390586420863566e-15;SANTA FE;2022
+PM25;Prevalencia_total;1,202332931023427e-15;SANTA FE;2022
+SO2;Prevalencia_total;;SANTA FE;2022
+CO;Casos de sibilancia último año;-9,470591366068898e-16;SANTA FE;2023
+NO2;Casos de sibilancia último año;-9,860932266962632e-16;SANTA FE;2023
+O3;Casos de sibilancia último año;1,0961825355830506e-16;SANTA FE;2023
+PM10;Casos de sibilancia último año;-4,485946467874019e-16;SANTA FE;2023
+PM25;Casos de sibilancia último año;-6,415006215542334e-16;SANTA FE;2023
+SO2;Casos de sibilancia último año;;SANTA FE;2023
+CO;Casos de tos último año diferente gripa;-5,757669766241713e-16;SANTA FE;2023
+NO2;Casos de tos último año diferente gripa;-5,134465141117485e-16;SANTA FE;2023
+O3;Casos de tos último año diferente gripa;1,2649678623221611e-16;SANTA FE;2023
+PM10;Casos de tos último año diferente gripa;-3,6929133692025866e-16;SANTA FE;2023
+PM25;Casos de tos último año diferente gripa;-5,119716478462772e-16;SANTA FE;2023
+SO2;Casos de tos último año diferente gripa;;SANTA FE;2023
+CO;Casos de mocos o nariz tapada último año;4,694611898899288e-16;SANTA FE;2023
+NO2;Casos de mocos o nariz tapada último año;7,555085528434067e-16;SANTA FE;2023
+O3;Casos de mocos o nariz tapada último año;-1,2254485806227277e-16;SANTA FE;2023
+PM10;Casos de mocos o nariz tapada último año;9,671417304148551e-16;SANTA FE;2023
+PM25;Casos de mocos o nariz tapada último año;1,0361109262849675e-15;SANTA FE;2023
+SO2;Casos de mocos o nariz tapada último año;;SANTA FE;2023
+CO;Prevalencia_total;1,5038796847972105e-16;SANTA FE;2023
+NO2;Prevalencia_total;2,9021792591910454e-16;SANTA FE;2023
+O3;Prevalencia_total;-5,086037821393805e-17;SANTA FE;2023
+PM10;Prevalencia_total;3,546652455386944e-16;SANTA FE;2023
+PM25;Prevalencia_total;3,661016839802476e-16;SANTA FE;2023
+SO2;Prevalencia_total;;SANTA FE;2023
+CO;Casos de sibilancia último año;1,466387919118771e-15;SUBA;2020
+NO2;Casos de sibilancia último año;-1,2252754340637176e-16;SUBA;2020
+O3;Casos de sibilancia último año;1,1225325215727963e-16;SUBA;2020
+PM10;Casos de sibilancia último año;-1,1761772363149134e-15;SUBA;2020
+PM25;Casos de sibilancia último año;-5,451688342105101e-16;SUBA;2020
+SO2;Casos de sibilancia último año;8,857345558586342e-16;SUBA;2020
+CO;Casos de tos último año diferente gripa;-2,167608207824961e-15;SUBA;2020
+NO2;Casos de tos último año diferente gripa;3,3883181738918895e-16;SUBA;2020
+O3;Casos de tos último año diferente gripa;-4,337683583060004e-16;SUBA;2020
+PM10;Casos de tos último año diferente gripa;7,23081239262242e-16;SUBA;2020
+PM25;Casos de tos último año diferente gripa;1,1646097323539928e-16;SUBA;2020
+SO2;Casos de tos último año diferente gripa;-1,064509385814471e-15;SUBA;2020
+CO;Casos de mocos o nariz tapada último año;-1,6325391649050719e-15;SUBA;2020
+NO2;Casos de mocos o nariz tapada último año;4,0742861360327966e-16;SUBA;2020
+O3;Casos de mocos o nariz tapada último año;2,428391341657232e-16;SUBA;2020
+PM10;Casos de mocos o nariz tapada último año;6,238177611769211e-16;SUBA;2020
+PM25;Casos de mocos o nariz tapada último año;2,3374376434464507e-16;SUBA;2020
+SO2;Casos de mocos o nariz tapada último año;7,14478196018032e-17;SUBA;2020
+CO;Prevalencia_total;2,2716680903792745e-15;SUBA;2020
+NO2;Prevalencia_total;-5,118473110310238e-16;SUBA;2020
+O3;Prevalencia_total;2,6078278746781897e-16;SUBA;2020
+PM10;Prevalencia_total;-1,0793358504624088e-15;SUBA;2020
+PM25;Prevalencia_total;-1,0162332449387749e-15;SUBA;2020
+SO2;Prevalencia_total;1,9512936375766543e-15;SUBA;2020
+CO;Casos de sibilancia último año;3,7531829077124023e-16;SUBA;2021
+NO2;Casos de sibilancia último año;5,293561624613047e-15;SUBA;2021
+O3;Casos de sibilancia último año;-1,5255559439648508e-15;SUBA;2021
+PM10;Casos de sibilancia último año;-2,4355954912936775e-15;SUBA;2021
+PM25;Casos de sibilancia último año;-1,3519922817718403e-15;SUBA;2021
+SO2;Casos de sibilancia último año;5,789838927604746e-16;SUBA;2021
+CO;Casos de tos último año diferente gripa;1,097716917288076e-15;SUBA;2021
+NO2;Casos de tos último año diferente gripa;-4,675375770172943e-15;SUBA;2021
+O3;Casos de tos último año diferente gripa;8,466887317300976e-16;SUBA;2021
+PM10;Casos de tos último año diferente gripa;1,498723485464335e-15;SUBA;2021
+PM25;Casos de tos último año diferente gripa;1,1749869655073182e-15;SUBA;2021
+SO2;Casos de tos último año diferente gripa;-2,626506225264283e-16;SUBA;2021
+CO;Casos de mocos o nariz tapada último año;9,931813530320962e-16;SUBA;2021
+NO2;Casos de mocos o nariz tapada último año;9,69465022433595e-16;SUBA;2021
+O3;Casos de mocos o nariz tapada último año;-2,868818356293572e-16;SUBA;2021
+PM10;Casos de mocos o nariz tapada último año;-4,18098792154676e-16;SUBA;2021
+PM25;Casos de mocos o nariz tapada último año;-4,791038567749858e-16;SUBA;2021
+SO2;Casos de mocos o nariz tapada último año;4,107643966282806e-16;SUBA;2021
+CO;Prevalencia_total;1,0038915268762372e-15;SUBA;2021
+NO2;Prevalencia_total;4,803921226634643e-15;SUBA;2021
+O3;Prevalencia_total;-1,352232921020477e-15;SUBA;2021
+PM10;Prevalencia_total;-1,6481705958017525e-15;SUBA;2021
+PM25;Prevalencia_total;-6,740319712518707e-16;SUBA;2021
+SO2;Prevalencia_total;1,5251757292155302e-16;SUBA;2021
+CO;Casos de sibilancia último año;5,661187620529859e-16;SUBA;2022
+NO2;Casos de sibilancia último año;4,940846256931591e-16;SUBA;2022
+O3;Casos de sibilancia último año;-2,3463455781857925e-16;SUBA;2022
+PM10;Casos de sibilancia último año;2,4339966177165876e-16;SUBA;2022
+PM25;Casos de sibilancia último año;-1,1176908169369995e-16;SUBA;2022
+SO2;Casos de sibilancia último año;-8,227103447375875e-16;SUBA;2022
+CO;Casos de tos último año diferente gripa;5,58671730545297e-16;SUBA;2022
+NO2;Casos de tos último año diferente gripa;-1,575982999574781e-16;SUBA;2022
+O3;Casos de tos último año diferente gripa;5,993640530017363e-16;SUBA;2022
+PM10;Casos de tos último año diferente gripa;1,0999381178888085e-15;SUBA;2022
+PM25;Casos de tos último año diferente gripa;8,844594930915164e-16;SUBA;2022
+SO2;Casos de tos último año diferente gripa;3,008138321718308e-16;SUBA;2022
+CO;Casos de mocos o nariz tapada último año;-7,424368387419859e-16;SUBA;2022
+NO2;Casos de mocos o nariz tapada último año;-4,625759862331915e-16;SUBA;2022
+O3;Casos de mocos o nariz tapada último año;2,1054353302756263e-16;SUBA;2022
+PM10;Casos de mocos o nariz tapada último año;-8,136351281441272e-16;SUBA;2022
+PM25;Casos de mocos o nariz tapada último año;-4,970068048880981e-16;SUBA;2022
+SO2;Casos de mocos o nariz tapada último año;-2,0471385923477332e-17;SUBA;2022
+CO;Prevalencia_total;-2,11732006023e-15;SUBA;2022
+NO2;Prevalencia_total;-5,996947818371233e-15;SUBA;2022
+O3;Prevalencia_total;2,366431379724387e-15;SUBA;2022
+PM10;Prevalencia_total;2,735721419779969e-15;SUBA;2022
+PM25;Prevalencia_total;3,0537075645153047e-15;SUBA;2022
+SO2;Prevalencia_total;3,991184060953945e-15;SUBA;2022
+CO;Casos de sibilancia último año;4,108834153364775e-16;SUBA;2023
+NO2;Casos de sibilancia último año;8,660484681940375e-16;SUBA;2023
+O3;Casos de sibilancia último año;6,624001837480732e-16;SUBA;2023
+PM10;Casos de sibilancia último año;8,716639651935197e-16;SUBA;2023
+PM25;Casos de sibilancia último año;4,348006016828244e-16;SUBA;2023
+SO2;Casos de sibilancia último año;-1,224419194754825e-15;SUBA;2023
+CO;Casos de tos último año diferente gripa;-2,362413751668973e-16;SUBA;2023
+NO2;Casos de tos último año diferente gripa;-1,77862289631173e-15;SUBA;2023
+O3;Casos de tos último año diferente gripa;5,294793034450551e-16;SUBA;2023
+PM10;Casos de tos último año diferente gripa;7,673734575395644e-16;SUBA;2023
+PM25;Casos de tos último año diferente gripa;4,8666704464267216e-17;SUBA;2023
+SO2;Casos de tos último año diferente gripa;8,750749138291972e-16;SUBA;2023
+CO;Casos de mocos o nariz tapada último año;1,7529639569157203e-17;SUBA;2023
+NO2;Casos de mocos o nariz tapada último año;-3,459734206745202e-15;SUBA;2023
+O3;Casos de mocos o nariz tapada último año;7,882450485034615e-16;SUBA;2023
+PM10;Casos de mocos o nariz tapada último año;2,2409061681339e-15;SUBA;2023
+PM25;Casos de mocos o nariz tapada último año;1,949374711805087e-15;SUBA;2023
+SO2;Casos de mocos o nariz tapada último año;1,5850185794106291e-15;SUBA;2023
+CO;Prevalencia_total;-1,3252988555894017e-16;SUBA;2023
+NO2;Prevalencia_total;4,1628227083958896e-15;SUBA;2023
+O3;Prevalencia_total;-1,1626188664120858e-15;SUBA;2023
+PM10;Prevalencia_total;-3,019076661024463e-15;SUBA;2023
+PM25;Prevalencia_total;-9,033156668088664e-16;SUBA;2023
+SO2;Prevalencia_total;1,2664364158378037e-16;SUBA;2023
+CO;Casos de sibilancia último año;1,3552320788151753e-16;USAQUEN;2020
+NO2;Casos de sibilancia último año;5,2622740931797576e-17;USAQUEN;2020
+O3;Casos de sibilancia último año;8,00366750904728e-16;USAQUEN;2020
+PM10;Casos de sibilancia último año;1,9689354855734364e-15;USAQUEN;2020
+PM25;Casos de sibilancia último año;1,346040000845706e-15;USAQUEN;2020
+SO2;Casos de sibilancia último año;-5,255613657418205e-16;USAQUEN;2020
+CO;Casos de tos último año diferente gripa;-1,0278479795487651e-16;USAQUEN;2020
+NO2;Casos de tos último año diferente gripa;-1,1179341073359712e-16;USAQUEN;2020
+O3;Casos de tos último año diferente gripa;2,12786525444172e-16;USAQUEN;2020
+PM10;Casos de tos último año diferente gripa;1,8978149446615581e-16;USAQUEN;2020
+PM25;Casos de tos último año diferente gripa;7,564571851375237e-17;USAQUEN;2020
+SO2;Casos de tos último año diferente gripa;6,807413962286057e-17;USAQUEN;2020
+CO;Casos de mocos o nariz tapada último año;7,96763837669855e-16;USAQUEN;2020
+NO2;Casos de mocos o nariz tapada último año;5,385930052434612e-17;USAQUEN;2020
+O3;Casos de mocos o nariz tapada último año;7,213326931138656e-16;USAQUEN;2020
+PM10;Casos de mocos o nariz tapada último año;2,5658841379879545e-15;USAQUEN;2020
+PM25;Casos de mocos o nariz tapada último año;2,034795014832156e-15;USAQUEN;2020
+SO2;Casos de mocos o nariz tapada último año;-5,616197835240355e-16;USAQUEN;2020
+CO;Prevalencia_total;-2,1979567130063815e-16;USAQUEN;2020
+NO2;Prevalencia_total;-2,119191130264096e-16;USAQUEN;2020
+O3;Prevalencia_total;-1,810478932846372e-16;USAQUEN;2020
+PM10;Prevalencia_total;-1,144507946692588e-15;USAQUEN;2020
+PM25;Prevalencia_total;-8,068633630981045e-16;USAQUEN;2020
+SO2;Prevalencia_total;1,3535541198279117e-16;USAQUEN;2020
+CO;Casos de sibilancia último año;-3,144706526974552e-17;USAQUEN;2021
+NO2;Casos de sibilancia último año;-1,165582774131599e-16;USAQUEN;2021
+O3;Casos de sibilancia último año;-1,701681956319589e-16;USAQUEN;2021
+PM10;Casos de sibilancia último año;-3,0380331344709786e-17;USAQUEN;2021
+PM25;Casos de sibilancia último año;2,4167736807957578e-17;USAQUEN;2021
+SO2;Casos de sibilancia último año;7,549503175521967e-16;USAQUEN;2021
+CO;Casos de tos último año diferente gripa;-3,299876019249387e-16;USAQUEN;2021
+NO2;Casos de tos último año diferente gripa;-5,670350956817263e-16;USAQUEN;2021
+O3;Casos de tos último año diferente gripa;-1,707909962964192e-16;USAQUEN;2021
+PM10;Casos de tos último año diferente gripa;-5,434822435859941e-16;USAQUEN;2021
+PM25;Casos de tos último año diferente gripa;-4,181936244700578e-16;USAQUEN;2021
+SO2;Casos de tos último año diferente gripa;6,405908205179282e-16;USAQUEN;2021
+CO;Casos de mocos o nariz tapada último año;2,986138599672098e-16;USAQUEN;2021
+NO2;Casos de mocos o nariz tapada último año;4,877415784062582e-16;USAQUEN;2021
+O3;Casos de mocos o nariz tapada último año;1,0842015036111234e-16;USAQUEN;2021
+PM10;Casos de mocos o nariz tapada último año;5,358039819789714e-16;USAQUEN;2021
+PM25;Casos de mocos o nariz tapada último año;4,908620514259072e-16;USAQUEN;2021
+SO2;Casos de mocos o nariz tapada último año;2,652118540164456e-16;USAQUEN;2021
+CO;Prevalencia_total;-5,697001121030207e-16;USAQUEN;2021
+NO2;Prevalencia_total;-1,1041488428820463e-15;USAQUEN;2021
+O3;Prevalencia_total;-5,722484133033242e-16;USAQUEN;2021
+PM10;Prevalencia_total;-8,501802837496892e-16;USAQUEN;2021
+PM25;Prevalencia_total;-7,199305193302064e-16;USAQUEN;2021
+SO2;Prevalencia_total;1,1020872832329388e-15;USAQUEN;2021
+CO;Casos de sibilancia último año;-6,011275641069489e-16;USAQUEN;2022
+NO2;Casos de sibilancia último año;-1,1321921481046766e-15;USAQUEN;2022
+O3;Casos de sibilancia último año;-6,306827056157893e-16;USAQUEN;2022
+PM10;Casos de sibilancia último año;-1,1371392746839603e-15;USAQUEN;2022
+PM25;Casos de sibilancia último año;-1,1667364000322748e-15;USAQUEN;2022
+SO2;Casos de sibilancia último año;-6,649162304996083e-16;USAQUEN;2022
+CO;Casos de tos último año diferente gripa;4,029818958130669e-17;USAQUEN;2022
+NO2;Casos de tos último año diferente gripa;1,354754602521946e-16;USAQUEN;2022
+O3;Casos de tos último año diferente gripa;6,222781275462106e-16;USAQUEN;2022
+PM10;Casos de tos último año diferente gripa;6,317506051603508e-16;USAQUEN;2022
+PM25;Casos de tos último año diferente gripa;8,270391363909376e-16;USAQUEN;2022
+SO2;Casos de tos último año diferente gripa;-2,8408009452700995e-16;USAQUEN;2022
+CO;Casos de mocos o nariz tapada último año;6,269353274402067e-16;USAQUEN;2022
+NO2;Casos de mocos o nariz tapada último año;1,2377189530044374e-15;USAQUEN;2022
+O3;Casos de mocos o nariz tapada último año;1,0903747517064938e-15;USAQUEN;2022
+PM10;Casos de mocos o nariz tapada último año;1,4863716251713022e-15;USAQUEN;2022
+PM25;Casos de mocos o nariz tapada último año;1,917075885073421e-15;USAQUEN;2022
+SO2;Casos de mocos o nariz tapada último año;4,3736474711416547e-16;USAQUEN;2022
+CO;Prevalencia_total;-1,829523850415461e-16;USAQUEN;2022
+NO2;Prevalencia_total;-1,0700296687942262e-16;USAQUEN;2022
+O3;Prevalencia_total;2,4777699113045425e-15;USAQUEN;2022
+PM10;Prevalencia_total;1,6614722578221518e-15;USAQUEN;2022
+PM25;Prevalencia_total;2,9083000278448955e-15;USAQUEN;2022
+SO2;Prevalencia_total;-1,2636922590045504e-15;USAQUEN;2022
+CO;Casos de sibilancia último año;-3,9343707726440957e-16;USAQUEN;2023
+NO2;Casos de sibilancia último año;-8,222738757463937e-16;USAQUEN;2023
+O3;Casos de sibilancia último año;2,70911253144742e-16;USAQUEN;2023
+PM10;Casos de sibilancia último año;-4,987638202357962e-16;USAQUEN;2023
+PM25;Casos de sibilancia último año;-3,098079714381633e-17;USAQUEN;2023
+SO2;Casos de sibilancia último año;-1,3106837113431938e-15;USAQUEN;2023
+CO;Casos de tos último año diferente gripa;2,0986459338614805e-16;USAQUEN;2023
+NO2;Casos de tos último año diferente gripa;3,132345569913958e-16;USAQUEN;2023
+O3;Casos de tos último año diferente gripa;6,631006826140339e-16;USAQUEN;2023
+PM10;Casos de tos último año diferente gripa;5,204906741386516e-16;USAQUEN;2023
+PM25;Casos de tos último año diferente gripa;9,339977969601298e-16;USAQUEN;2023
+SO2;Casos de tos último año diferente gripa;-5,364583112067824e-16;USAQUEN;2023
+CO;Casos de mocos o nariz tapada último año;9,17667074177232e-16;USAQUEN;2023
+NO2;Casos de mocos o nariz tapada último año;1,0044014764887413e-15;USAQUEN;2023
+O3;Casos de mocos o nariz tapada último año;7,721182765221174e-16;USAQUEN;2023
+PM10;Casos de mocos o nariz tapada último año;1,8242303778480115e-15;USAQUEN;2023
+PM25;Casos de mocos o nariz tapada último año;3,0838698187061543e-15;USAQUEN;2023
+SO2;Casos de mocos o nariz tapada último año;1,3868598493641849e-15;USAQUEN;2023
+CO;Prevalencia_total;3,1310968203861554e-15;USAQUEN;2023
+NO2;Prevalencia_total;4,196173951631834e-15;USAQUEN;2023
+O3;Prevalencia_total;-7,940455472532693e-16;USAQUEN;2023
+PM10;Prevalencia_total;2,9721856754770817e-15;USAQUEN;2023
+PM25;Prevalencia_total;8,384731058750078e-16;USAQUEN;2023
+SO2;Prevalencia_total;3,790118906328452e-15;USAQUEN;2023
+CO;Casos de sibilancia último año;3,233573004593507e-16;USME;2020
+NO2;Casos de sibilancia último año;1,026878945695861e-15;USME;2020
+O3;Casos de sibilancia último año;-1,5629919701310913e-16;USME;2020
+PM10;Casos de sibilancia último año;1,792187660237897e-16;USME;2020
+PM25;Casos de sibilancia último año;1,0384874288017523e-15;USME;2020
+SO2;Casos de sibilancia último año;-5,719535078581894e-16;USME;2020
+CO;Casos de tos último año diferente gripa;2,058782285011659e-15;USME;2020
+NO2;Casos de tos último año diferente gripa;9,294004871084335e-16;USME;2020
+O3;Casos de tos último año diferente gripa;6,064680977481085e-16;USME;2020
+PM10;Casos de tos último año diferente gripa;-2,6573269076263265e-15;USME;2020
+PM25;Casos de tos último año diferente gripa;-2,8067270105957193e-15;USME;2020
+SO2;Casos de tos último año diferente gripa;-2,8207664494017355e-15;USME;2020
+CO;Casos de mocos o nariz tapada último año;1,5145943941301908e-16;USME;2020
+NO2;Casos de mocos o nariz tapada último año;4,280182993522972e-16;USME;2020
+O3;Casos de mocos o nariz tapada último año;-3,275004430190158e-16;USME;2020
+PM10;Casos de mocos o nariz tapada último año;5,16437148779742e-16;USME;2020
+PM25;Casos de mocos o nariz tapada último año;7,700735457398236e-16;USME;2020
+SO2;Casos de mocos o nariz tapada último año;1,854659463678423e-16;USME;2020
+CO;Prevalencia_total;-6,50941787586035e-15;USME;2020
+NO2;Prevalencia_total;-6,278382222146204e-15;USME;2020
+O3;Prevalencia_total;7,768604758467575e-16;USME;2020
+PM10;Prevalencia_total;1,1170417807503503e-15;USME;2020
+PM25;Prevalencia_total;7,871660345858921e-16;USME;2020
+SO2;Prevalencia_total;2,6546131873389475e-15;USME;2020
+CO;Casos de sibilancia último año;1,3506295581694162e-16;USME;2021
+NO2;Casos de sibilancia último año;-8,372306238749384e-16;USME;2021
+O3;Casos de sibilancia último año;-3,080250616495467e-16;USME;2021
+PM10;Casos de sibilancia último año;-9,40424245849288e-16;USME;2021
+PM25;Casos de sibilancia último año;;USME;2021
+SO2;Casos de sibilancia último año;-1,6256073140322715e-16;USME;2021
+CO;Casos de tos último año diferente gripa;-1,0774538319850577e-16;USME;2021
+NO2;Casos de tos último año diferente gripa;1,1499841094052938e-16;USME;2021
+O3;Casos de tos último año diferente gripa;2,646274983386579e-16;USME;2021
+PM10;Casos de tos último año diferente gripa;1,7614269610791406e-18;USME;2021
+PM25;Casos de tos último año diferente gripa;;USME;2021
+SO2;Casos de tos último año diferente gripa;1,9856258188170995e-16;USME;2021
+CO;Casos de mocos o nariz tapada último año;-6,929211217430638e-16;USME;2021
+NO2;Casos de mocos o nariz tapada último año;-5,146075057435946e-16;USME;2021
+O3;Casos de mocos o nariz tapada último año;1,2577024352758884e-15;USME;2021
+PM10;Casos de mocos o nariz tapada último año;-2,083612918596399e-16;USME;2021
+PM25;Casos de mocos o nariz tapada último año;;USME;2021
+SO2;Casos de mocos o nariz tapada último año;5,00880090395474e-16;USME;2021
+CO;Prevalencia_total;-2,6073717729922093e-16;USME;2021
+NO2;Prevalencia_total;2,8629898725949896e-16;USME;2021
+O3;Prevalencia_total;4,714528582158435e-16;USME;2021
+PM10;Prevalencia_total;6,356495212108765e-16;USME;2021
+PM25;Prevalencia_total;;USME;2021
+SO2;Prevalencia_total;4,624608178423888e-16;USME;2021
+CO;Casos de sibilancia último año;-1,2227613302796104e-17;USME;2022
+NO2;Casos de sibilancia último año;1,7092085315965031e-16;USME;2022
+O3;Casos de sibilancia último año;4,879350602372133e-16;USME;2022
+PM10;Casos de sibilancia último año;1,0635714492509969e-15;USME;2022
+PM25;Casos de sibilancia último año;1,0440781340412042e-15;USME;2022
+SO2;Casos de sibilancia último año;-7,485091979896412e-16;USME;2022
+CO;Casos de tos último año diferente gripa;2,1452725197053345e-17;USME;2022
+NO2;Casos de tos último año diferente gripa;3,162155859117912e-16;USME;2022
+O3;Casos de tos último año diferente gripa;-3,940290710962215e-16;USME;2022
+PM10;Casos de tos último año diferente gripa;-1,7556605372996642e-16;USME;2022
+PM25;Casos de tos último año diferente gripa;-2,0479150272014613e-16;USME;2022
+SO2;Casos de tos último año diferente gripa;8,172922565910857e-16;USME;2022
+CO;Casos de mocos o nariz tapada último año;-2,411384789025912e-16;USME;2022
+NO2;Casos de mocos o nariz tapada último año;-6,902476550133564e-16;USME;2022
+O3;Casos de mocos o nariz tapada último año;-3,7261187698426134e-16;USME;2022
+PM10;Casos de mocos o nariz tapada último año;-1,1365633747093681e-15;USME;2022
+PM25;Casos de mocos o nariz tapada último año;-1,1873776504704964e-15;USME;2022
+SO2;Casos de mocos o nariz tapada último año;1,4512789519868518e-16;USME;2022
+CO;Prevalencia_total;-3,827981496803588e-16;USME;2022
+NO2;Prevalencia_total;-1,063919612075356e-15;USME;2022
+O3;Prevalencia_total;-9,209927711822686e-17;USME;2022
+PM10;Prevalencia_total;-1,2138130681548066e-15;USME;2022
+PM25;Prevalencia_total;-1,3390209019884328e-15;USME;2022
+SO2;Prevalencia_total;-1,1922447233528143e-17;USME;2022
+CO;Casos de sibilancia último año;4,3486579215918465e-16;USME;2023
+NO2;Casos de sibilancia último año;-2,8961344490640654e-16;USME;2023
+O3;Casos de sibilancia último año;1,3266054953360164e-16;USME;2023
+PM10;Casos de sibilancia último año;1,2957360031052323e-16;USME;2023
+PM25;Casos de sibilancia último año;-1,6504113857065352e-16;USME;2023
+SO2;Casos de sibilancia último año;4,122312015533859e-16;USME;2023
+CO;Casos de tos último año diferente gripa;4,1452535039410486e-17;USME;2023
+NO2;Casos de tos último año diferente gripa;-9,83054641878224e-16;USME;2023
+O3;Casos de tos último año diferente gripa;-1,5665032791273575e-16;USME;2023
+PM10;Casos de tos último año diferente gripa;-7,543868189843185e-16;USME;2023
+PM25;Casos de tos último año diferente gripa;-1,0403971081821783e-15;USME;2023
+SO2;Casos de tos último año diferente gripa;3,0966177959657127e-16;USME;2023
+CO;Casos de mocos o nariz tapada último año;-2,0239489535321925e-16;USME;2023
+NO2;Casos de mocos o nariz tapada último año;1,8547876741177884e-15;USME;2023
+O3;Casos de mocos o nariz tapada último año;2,7987763182493007e-16;USME;2023
+PM10;Casos de mocos o nariz tapada último año;1,0475001405713328e-15;USME;2023
+PM25;Casos de mocos o nariz tapada último año;1,7817181782191375e-15;USME;2023
+SO2;Casos de mocos o nariz tapada último año;-8,95292492125882e-16;USME;2023
+CO;Prevalencia_total;-7,648079861754754e-16;USME;2023
+NO2;Prevalencia_total;3,306697276388465e-15;USME;2023
+O3;Prevalencia_total;-1,4449581712966844e-15;USME;2023
+PM10;Prevalencia_total;1,6320810037181078e-15;USME;2023
+PM25;Prevalencia_total;2,4751194729964775e-15;USME;2023
+SO2;Prevalencia_total;-1,9161189108151346e-15;USME;2023
