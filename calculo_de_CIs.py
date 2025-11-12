@@ -67,7 +67,7 @@ for start in years:
         if end >= start:
             year_ranges.append((start, end))
 
-all_combinations = list(product(air_variables, ['ALL'] + localidades, year_ranges))
+all_combinations = list(product(air_variables, ['TODAS'] + localidades, year_ranges))
 
 final_results = []
 
@@ -77,7 +77,7 @@ for combo in tqdm(all_combinations, desc="Calculating Statistics"):
     
     # Filter the dataframe
     df_filtered = air.copy()
-    if localidad != 'ALL':
+    if localidad != 'TODAS':
         df_filtered = df_filtered[df_filtered['Localidad'] == localidad]
     df_filtered = df_filtered[(df_filtered['Año'] >= year_start) & (df_filtered['Año'] <= year_end)]
 
@@ -101,7 +101,7 @@ for combo in tqdm(all_combinations, desc="Calculating Statistics"):
 results_df = pd.DataFrame(final_results)
 
 output_file = 'IMPUTED-confidence_interval_results_for_powerbi_long.csv'
-results_df.to_csv(os.path.join("Datos_PowerBI", output_file), index=False, sep=';', decimal=',')
+results_df.to_csv(os.path.join("Datos_PowerBI", output_file), index=False, sep=';', decimal='.')
 
 print(f"\nProcessing complete! Results saved to '{output_file}'")
 print("The file is ready to be loaded into Power BI.")
