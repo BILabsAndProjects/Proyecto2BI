@@ -8,4 +8,4 @@
 "Casos de tos último año diferente gripa","Entero","Número de menores del grupo que presentaron episodios de tos en el último año, excluyendo aquellos asociados a gripe."
 "Casos de mocos o nariz tapada último año","Entero","Número de menores del grupo con congestión nasal o mucosidad durante el último año calendario."
 "Registros","Entero","Cantidad total de menores de cinco años incluidos en el grupo definido por las variables anteriores (año, localidad, sexo, etc.)."
-"Casos síntomas totales","Entero","Número total de menores del grupo que presentó al menos uno de los síntomas respiratorios reportados, durante el último año calendario."
+"Casos sintomas totales","Entero","Número total de menores del grupo que presentó al menos uno de los síntomas respiratorios reportados, durante el último año calendario."
