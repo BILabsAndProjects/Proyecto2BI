@@ -102,7 +102,7 @@ def main():
 
                 if not np.isnan(pr):
                     resultado = {
-                        "Variable": localidad,
+                        "Localidad": localidad,
                         "PR": pr,
                         "nivel_confianza": f"{conf_level}%",
                         "ic_inferior": ci_lower,
@@ -117,7 +117,7 @@ def main():
         df_resultados = pd.DataFrame(resultados)
         
         # Ordenar y redondear
-        column_order = ["Variable", "PR", "nivel_confianza", "ic_inferior", "ic_superior", "p_valor", "sintoma"]
+        column_order = ["Localidad", "PR", "nivel_confianza", "ic_inferior", "ic_superior", "p_valor", "sintoma"]
         df_resultados = df_resultados[column_order]
         df_resultados['PR'] = df_resultados['PR'].round(2)
         df_resultados['ic_inferior'] = df_resultados['ic_inferior'].round(2)

@@ -1,4 +1,4 @@
-Variable;PR;nivel_confianza;ic_inferior;ic_superior;p_valor;sintoma
+Localidad;PR;nivel_confianza;ic_inferior;ic_superior;p_valor;sintoma
 BARRIOS UNIDOS;1.01;90%;0.7;1.45;0.976;Sibilancias
 BARRIOS UNIDOS;1.01;95%;0.65;1.55;0.976;Sibilancias
 BARRIOS UNIDOS;1.01;99%;0.57;1.77;0.976;Sibilancias
